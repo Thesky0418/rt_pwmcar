@@ -9,7 +9,7 @@
 
 ### 3. 整体系统框架
 
-![image-20220803102538822](说明文档.assets/image-20220803102538822.png)
+![image-20220803102538822](readme.assets/image-20220803102538822.png)
 
 ### 4.RT-Thread使用情况
 
@@ -24,9 +24,9 @@
 
 ### 5. 软硬件架构图
 
-![image-20220802105036135](说明文档.assets/image-20220802105036135.png)
+![image-20220802105036135](readme.assets/image-20220802105036135.png)
 
-![image-20220802113927605](说明文档.assets/image-20220802113927605.png)
+![image-20220802113927605](readme.assets/image-20220802113927605.png)
 
 ### 6.软件说明
 
@@ -47,7 +47,7 @@
 
 ### 7.作品完整图片
 
-![3de35ac6c889293fb2174691d206d64](说明文档.assets/3de35ac6c889293fb2174691d206d64.jpg)
+![3de35ac6c889293fb2174691d206d64](readme.assets/3de35ac6c889293fb2174691d206d64.jpg)
 
 #### [演示视频](https://www.bilibili.com/video/BV1nB4y1r7G1?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=1030fc49793ffea59949728ba8e460ec)
 
@@ -55,4 +55,4 @@ onenet演示效果
 
 
 
-![image-20220803104620735](说明文档.assets/image-20220803104620735.png)
+![image-20220803104620735](readme.assets/image-20220803104620735.png)
